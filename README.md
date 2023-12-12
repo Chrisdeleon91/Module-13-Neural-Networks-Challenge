@@ -11,8 +11,6 @@ The team has given me a CSV file containing more than 34,000 organizations that 
 
 ## Instructions on how to use 
 
-## Instructions on how to use 
-
 ### 1. Launch venture_funding_with_deep_learning.ipynb from JuypterLab to run JupyterLab version
 * Run through each line of code to view the output
 ### 2.Launch Colab_venture_funding_with_deep_learning.ipynb and upload into your Google Colab:
